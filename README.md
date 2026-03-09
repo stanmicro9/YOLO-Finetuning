@@ -29,8 +29,8 @@ Detecting different types of blood cells is a critical task in clinical diagnost
 ├── yolov8m_training.ipynb
 ├── requirements.txt
 └── blood_cell_config.yaml
-
-## 🚀 Installation & Usage
+```
+## Installation & Usage
 
 1. **Clone the repo:**
    ```bash
