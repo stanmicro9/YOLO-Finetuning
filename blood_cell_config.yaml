@@ -1,0 +1,9 @@
+names:
+  0: WBC
+  1: RBC
+  2: Platelets
+path: c:\Users\solvi\OneDrive\Documents\Desktop\Graduation\sem7\CV\Assignments\Assignment
+  2\2022170413\yolo_dataset
+test: images/test
+train: images/train
+val: images/test
