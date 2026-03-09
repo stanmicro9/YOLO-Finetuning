@@ -1,7 +1,7 @@
 # YOLO-Finetuning
 # Blood Cell Object Detection using YOLOv8
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/python-<2-blue.svg)
 ![YOLOv8](https://img.shields.io/badge/Ultralytics-YOLOv8-red.svg)
 
 An automated pipeline for detecting **White Blood Cells (WBC)**, **Red Blood Cells (RBC)**, and **Platelets** using deep learning. This project demonstrates the transition from raw image data to comparative analysis between two YOLOv8 model variants to compare performance on medical imaging data.
