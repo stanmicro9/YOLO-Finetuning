@@ -41,5 +41,4 @@ Detecting different types of blood cells is a critical task in clinical diagnost
    pip install -r requirements.txt
 
 3. **Run pipeline:**
-   ```bash
    Execute data_preparation.ipynb first, followed by the training notebooks.
